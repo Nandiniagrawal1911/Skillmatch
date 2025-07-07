@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Data Scientist",
+    "required_skills": ["Python", "SQL", "Machine Learning", "Pandas","R","scikit-learn"]
+  },
+  {
+    "title": "Web Developer",
+    "required_skills": ["HTML", "CSS", "JavaScript", "React", "Node.js"]
+  },
+  {
+    "title": "Backend Developer",
+    "required_skills": ["Python", "Flask", "SQL", "Docker"]
+  },
+  {
+    "title": "Data Analyst",
+  "required_skills" :["Pandas","Python","PowerBi","Excel","Matplotlib"]
+  },
+ {
+        "title": "Frontend Developer",
+        "required_skills": ["HTML", "CSS", "JavaScript", "React"]
+  },
+    {
+        "title": "Full Stack Developer",
+        "required_skills": ["React", "Node.js", "MongoDB", "Express"]
+    },
+    {
+        "title": "Data Analyst",
+        "required_skills": ["Python", "SQL", "Pandas", "Excel"]
+    },
+    {
+        "title": "ML Engineer",
+        "required_skills": ["Python", "TensorFlow", "NumPy", "scikit-learn"]
+    },
+    {
+        "title": "Android Developer",
+        "required_skills": ["Java", "Kotlin", "Android Studio"]
+    },
+    {
+        "title": "Flutter Developer",
+        "required_skills": ["Dart", "Flutter", "Firebase"]
+    },
+    {
+        "title": "DevOps Engineer",
+        "required_skills": ["Docker", "CI/CD", "AWS", "Linux"]
+    },
+    {
+        "title": "Cloud Engineer",
+        "required_skills": ["AWS", "EC2", "S3", "IAM"]
+    },
+    {
+        "title": "QA Tester",
+        "required_skills": ["Manual Testing", "Selenium", "JIRA"]
+    },
+    {
+        "title": "Cybersecurity Analyst",
+        "required_skills": ["Network Security", "Linux", "Firewalls"]
+    },
+    {
+        "title": "UI/UX Designer",
+        "required_skills": ["Figma", "Wireframing", "User Research"]
+    },
+    {
+        "title": "Product Designer",
+        "required_skills": ["Figma", "Sketch", "Adobe XD"]
+    },
+    {
+        "title": "Web Designer",
+        "required_skills": ["HTML", "CSS", "Photoshop", "Bootstrap"]
+    },
+    {
+        "title": "Technical Writer",
+        "required_skills": ["Markdown", "Documentation", "Git"]
+    },
+    {
+        "title": "Game Developer",
+        "required_skills": ["Unity", "C#", "Game Design"]
+    },
+    {
+        "title": "Business Analyst",
+        "required_skills": ["Excel", "SQL", "Power BI", "Communication"]
+    },
+    {
+        "title": "Site Reliability Engineer (SRE)",
+        "required_skills": ["Kubernetes", "Monitoring", "Linux", "Python"]
+    },
+    {
+        "title": "AI Research Intern",
+        "required_skills": ["Python", "NLP", "Transformers", "OpenCV"]
+    }
+]
+
+
