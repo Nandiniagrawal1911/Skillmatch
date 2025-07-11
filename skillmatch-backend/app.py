@@ -95,6 +95,5 @@ def recommend_jobs():
 
     return jsonify({"matched_jobs": matched_jobs})
 
-
-if __name__ == '__main__':
-    app.run(debug=True)
+app = Flask(__name__)
+CORS(app)
